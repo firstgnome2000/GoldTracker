@@ -1,4 +1,4 @@
-## Interface: 100206
+## Interface: 30403
 ## Title: GoldTracker
 ## Notes: inspect how much gold your mouseover target has made so far.
 ## Version: 1.0.0
